@@ -213,9 +213,8 @@ input, select, textarea {
 /* Container */
 
 	.container {
-		margin: 15px;
-		font-size: 14pt;
-		line-height: 1em
+		margin: 16px auto;
+		font-size: 12pt;
 		max-width: 100%;
 		width: 1400px;
 	}
