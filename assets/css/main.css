@@ -2206,7 +2206,7 @@ input, select, textarea {
 /* Main */
 
 	#main {
-		margin-left: auto;
+		margin-left: 0;
 	}
 
 		#main > section {
