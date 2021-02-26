@@ -214,6 +214,7 @@ input, select, textarea {
 
 	.container {
 		margin: 15px auto;
+		text-align: left;
 		max-width: 100%;
 		width: 1400px;
 	}
