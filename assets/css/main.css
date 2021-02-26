@@ -204,6 +204,8 @@ input, select, textarea {
 
 	p, ul, ol, dl, table {
 		margin-bottom: 2em;
+		font-size: 14pt;
+		margin: 16px;
 	}
 
 	br.clear {
