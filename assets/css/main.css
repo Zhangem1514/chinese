@@ -203,9 +203,7 @@ input, select, textarea {
 	}
 
 	p, ul, ol, dl, table {
-		
-		font-size: 14pt;
-		margin: 16px;
+		margin-bottom: 1.3em;
 	}
 
 	br.clear {
@@ -215,7 +213,7 @@ input, select, textarea {
 /* Container */
 
 	.container {
-		margin: 0;
+		margin: 15px auto;
 		max-width: 100%;
 		width: 1400px;
 	}
