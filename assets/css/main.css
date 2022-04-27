@@ -1768,6 +1768,19 @@ p {
 				width: 84px;
 				height: 84px;
 			}
+		
+		.image.qrcode {
+			margin-left: 0.5em;
+			margin-top: 30em;
+			width: 60px;
+			height: 60px;
+			background: #f00;
+		}
+
+			.image.qrcode img {
+				width: 60px;
+				height: 60px;
+			}		
 
 		.image.fit {
 			display: block;
