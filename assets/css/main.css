@@ -218,7 +218,7 @@ p {
 
 	.container {
 		margin: 0 auto;
-		min-width: 600px;
+		min-width: 300px;
 		max-width: 100%;
 		width: 1400px;
 	}
@@ -2085,10 +2085,10 @@ p {
 		#header .left {
 			float: left;
 			width: 300px;
-			height: 300px;
+			height: 60px;
 		}
 		#header .right {
-			height: 1000px;
+			height: 780px;
 			overflow: hidden;
 		}
 
